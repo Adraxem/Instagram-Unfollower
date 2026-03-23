@@ -1,5 +1,5 @@
 # Instagram-Unfollower (BETA)
-Now then, Unfollow me if you can. Believe me, Sie kann nicht.
+Unfollow me if you can.
 
 # Pre-requisite External Libraries:
 1) Tkinter
